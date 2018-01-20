@@ -2,7 +2,7 @@
 
 Run Kibana 4 on Heroku with one click. Brought to you by [Bonsai: Hosted Elasticsearch](https://bonsai.io/).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/omc/heroku-kibana/tree/v5.4.3)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/shdev/heroku-kibana/tree/v5.4.3)
 
 ## Note on Kibana 5.x
 
